@@ -1,4 +1,4 @@
-# Guess-the-number
+# Guess the number game
 A basic python guess the number game. The script prompts for the year you were born, the computer than looks up the current year, and deducts this year from it. 
 
 A random number is then added to this value, and you have to keep guessing the number until you win the game. 
